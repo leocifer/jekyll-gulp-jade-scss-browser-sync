@@ -26,6 +26,6 @@ This has a smacss implementation for the css folder structure.
 $ gulp
 ```
 
-**Special Thanks to shakyShane for the previous build of this.**
+**Special Thanks to [shakyShane](https://github.com/shakyShane) for the previous build of this.**
 
 [jekyll-gulp-sass-browser-sync](https://github.com/shakyShane/jekyll-gulp-sass-browser-sync)
