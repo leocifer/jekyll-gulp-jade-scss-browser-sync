@@ -28,4 +28,4 @@ $ gulp
 
 **Special Thanks to shakyShane for the previous build of this.**
 
-jekyll-gulp-sass-browser-sync(https://github.com/shakyShane/jekyll-gulp-sass-browser-sync)
+[jekyll-gulp-sass-browser-sync](https://github.com/shakyShane/jekyll-gulp-sass-browser-sync)
